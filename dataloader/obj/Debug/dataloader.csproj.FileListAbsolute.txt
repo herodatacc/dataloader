@@ -1,0 +1,6 @@
+D:\Projects\dataloader\dataloader\bin\Debug\dataloader.exe.config
+D:\Projects\dataloader\dataloader\bin\Debug\dataloader.exe
+D:\Projects\dataloader\dataloader\bin\Debug\dataloader.pdb
+D:\Projects\dataloader\dataloader\obj\Debug\dataloader.csprojResolveAssemblyReference.cache
+D:\Projects\dataloader\dataloader\obj\Debug\dataloader.exe
+D:\Projects\dataloader\dataloader\obj\Debug\dataloader.pdb
